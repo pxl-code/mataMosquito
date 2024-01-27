@@ -1,0 +1,60 @@
+body {
+	
+	overflow: hidden;
+}
+
+.fundo {
+
+	background: url(imagens/imagens/bg.jpg);
+
+}
+
+.image {
+
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 40%;
+
+}
+
+.botao {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  background-color: #00FF7F;
+  height: 50px;
+  border-radius: 25px;
+  text-decoration: none;
+}
+
+.link {
+
+	text-decoration: none;
+
+	
+
+}
+
+#mosca {
+	width: 75px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+
+}
+
+ #cronometro{
+
+ }
+ 
+ #VIDA {
+
+ 		margin-bottom: 10px;
+ 		margin-left: 5px;
+ 		border-radius: 1px;
+
+
+ }
+
